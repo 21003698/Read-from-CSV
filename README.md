@@ -38,3 +38,4 @@ print("Rows",len(df.axes[1]))
 ![](cs.png)
 
 ## RESULT:
+Therefore the above code is successfully executed to read a csv file using pandas.
